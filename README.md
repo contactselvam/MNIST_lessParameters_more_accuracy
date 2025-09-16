@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# remove the references and export as readme.md file
-
-Here is the perfectly formatted README that you can use as `readme.md`. All reference markers have been removed for a clean export.
-
-***
-
 # MNIST Digit Classification with PyTorch
 
 This project implements two efficient PyTorch models for classifying handwritten digits from the MNIST dataset. Both models follow strict constraints for high accuracy, efficiency, and compact architecture.
